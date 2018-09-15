@@ -1,4 +1,7 @@
 master-tempate
+### 0. Multisig wallet for project members
+* [misthos.io](https://www.misthos.io/)
+
 ## 1. register a domian name 
 * [enom.com](https://www.enom.com/)
 
