@@ -3,7 +3,7 @@ master-tempate
 * [enom.com](https://www.enom.com/)
 
 ## 2.setup sever 
-* [digitalocean.com](https://www.digitalocean.com/)
+* [digitalocean.com](https://www.digitalocean.com/)  
 or  
 * [linode.com](https://www.linode.com/)
 
